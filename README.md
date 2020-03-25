@@ -1,2 +1,2 @@
 # ShoudTester
-It's a simple java source code that would help you to check the system speaker state.
+It's a simple JAR (java) code that would help you to check the system speaker state.
